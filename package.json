@@ -1,8 +1,8 @@
 {
-  "name": "language-x86asm",
-  "version": "0.7.1",
-  "description": "Adds syntax highlighting to x86 asm files in Atom.",
-  "repository": "https://github.com/SWW13/language-x86asm",
+  "name": "language-PICasm",
+  "version": "0.1.0",
+  "description": "Adds syntax highlighting to PIC asm files in Atom.",
+  "repository": "https://github.com/alvadorn/language-PICasm",
   "license": "GPLv3",
   "engines": {
     "atom": ">0.50.0"
