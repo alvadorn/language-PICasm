@@ -1,6 +1,6 @@
 {
   "name": "language-PICasm",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Adds syntax highlighting to PIC asm files in Atom.",
   "repository": "https://github.com/alvadorn/language-PICasm",
   "license": "GPLv3",
