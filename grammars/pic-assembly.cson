@@ -126,7 +126,7 @@
     ]
   }
   {
-    'match': '\\b(addwf|addlw|andlw|andwf|bcf|bsf|btfsc|btfss|call|clrf|clrw|clrwdt|comf|decf|decfsz|goto|incf|incfsz|iorlw|iorwf|movf|movlw|movwf|nop|retfie|retlw|return|rlf|rrf|sleep|sublw|subwf|swapf|xorlw|xorwf|)?\\b'
+    'match': '\\b(addwf|addlw|andlw|andwf|bcf|bsf|btfsc|btfss|call|clrf|clrw|clrwdt|comf|decf|decfsz|goto|incf|incfsz|iorlw|iorwf|movf|movlw|movwf|nop|retfie|retlw|return|rlf|rrf|sleep|sublw|subwf|swapf|xorlw|xorwf)\\b'
     'name': 'keyword.mnemonic'
   }
   {
